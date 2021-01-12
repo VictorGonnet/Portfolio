@@ -15,4 +15,4 @@ Vous incarnez un petit robot qui entame son ascension en sautant de plateforme e
 J'ai d'abord implémenté différents types de collisions en utilisant les layers. Quand mon personnage entre en contact avec ces gameobjetcs, une action différente se produit.
 
 
-![](https://Styshooteur.github.io/Images/robot%20ascend.PNG)
+![](https://Styshooteur.github.io/Images/collision.PNG)
