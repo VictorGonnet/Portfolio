@@ -38,4 +38,4 @@ Je pense avoir mener à bien ce projet, respecté en partie les consignes et sur
 J'ai toujours été habitué à tout faire au dernier moment mais avec la programmation je pense que je vais devoir changer mes habitudes car on ne sait jamais à l'avance le nombre de bug que l'on va devoir résoudre et c'est pour cela que j'ai eu chaud niveau timing.
 J'ai également dresser une liste des bugs de mon jeu ainsi que des choses que je n'ai pas implémenté exactement comme je le souhaitais de manière à pouvoir y revenir ultérieurement pour retravailler le jeu.
 
-> PS : J'ai fais 3 jours de crunch, grosse dédicace à CD Projekt Red et Florian Rossignol ! >
+- PS : J'ai fais 3 jours de crunch, grosse dédicace à CD Projekt Red et Florian Rossignol !
