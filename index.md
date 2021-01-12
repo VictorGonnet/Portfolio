@@ -1,6 +1,6 @@
 # Blogpost GPR4100.1 création d'un premier jeu
 
-![](https://tonnom.github.io/Images/robot ascend.png)
+![](https://tonnom.github.io/Images/robot%20ascend.PNG)
 
 # Introduction :
 
