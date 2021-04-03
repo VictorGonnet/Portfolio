@@ -1,4 +1,4 @@
-# Blogpost 1 :
+## Blogpost 1 :
 
 Je m'appelle Victor, j'ai 21 ans et j'étudie le Games Programming en 1ere année à la SAE Genève. Je suis titulaire d'un bac scientifique et d'une licence d'Arts du spectacle – Parcours cinéma de l'Université Lyon 2, j'ai également eu la chance d'avoir pu découvrir le japonais pendant 1 an à l'université Grenoble 3 – Stendhal. 
 
@@ -8,7 +8,7 @@ Aujourd'hui je ne suis toujours pas sûr d'avoir fait le bon choix en entrant à
 
 Enfin, pour ce qui est du futur, je me projette encore difficilement dans un métier car j'aimerais encore prendre le temps de voyager et apprendre des choses. Pour le moment, je dirai que j'aimerais être Game Designer pour un grand studio tout en étant parfaitement conscient qu'il faut des années de travail et de grandes connaissances pour y parvenir, c'est pour cela que je pense important de commencer par la programmation et de faire ses preuves dans ce domaine.
 
-# Blogpost 2 :
+## Blogpost 2 :
 
 Dans ce deuxième Blogpost, je vais essentiellement parler de mon expérience à la Swiss Game Academy puis j'évoquerais rapidement le travail fourni dans le cadre des cours.
 
@@ -18,7 +18,7 @@ Pour ce qui est des travaux à fournir en cours, nous sommes toujours encouragé
 
 Je pense vraiment que ce qu'on fait en cours est tout à fait complémentaire avec une expérience de Jam et que les deux sont essentiels si l'on veut pouvoir aborder le milieu professionnel correctement. En espérant devenir un jour un super game designer respecté de tous et pouvoir enfin sauver les messieurs de chez Blizzard Activision.
 
-# Blogpost 3 :
+## Blogpost 3 :
 
 Je ne vais pas faire ici l’étalage de mes qualités et défauts car ce n’est pas le sujet mais je tiens simplement à dire que je me définirais comme vif d’esprit mais parfois borné, même si j’essaye de ne pas l’être il y a souvent des choses sur lesquelles je me focalise et dont je n’arrive pas à me détacher bien qu’elles soient souvent négligeables. C’est important pour comprendre mes faiblesses, en tout cas pour ce qui est du travail, j’ai parfois du mal à me lancer par manque de motivation ou d’inspiration et ensuite je ne suis pas très efficace.
 
@@ -26,7 +26,7 @@ Je m’explique, il m’arrive d’avoir 2 mois pour faire un travail qui me pre
 
 Aujourd’hui, tout ceci est déjà moins problématique qu’auparavant car la programmation de jeu vidéo me plait beaucoup mais j’ai toujours du mal a avoir un déclic pour commencer à travailler. Ensuite, mes connaissances du milieu vidéoludique, en tout cas en termes de culture (essentiellement de son histoire) sont largement moins développées que celles de mes camarades, toutefois je peux facilement combler ce fossé grâce à ma culture générale (et surtout artistique) que j’ai eu le temps de développé à la fac. Pour finir, j’ai évidemment un énorme manque de compétences, c’est pour cela que je suis ici et je ne me fais pas trop de soucis pour l’instant. Cependant, j’aimerais éviter d’être un poids pour mes camarades et donc j’espère trouver grâce à eux et aux travaux de groupe la motivation qui va me permettre de m’améliorer.
 
-# Blogpost 4 :
+## Blogpost 4 :
 
 Dans le blogpost précédent j'avais mentionné mes difficultés à trouver la motivation pour mon travail et à être efficace.
 
