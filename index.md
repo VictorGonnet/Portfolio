@@ -1,41 +1,9 @@
-# Blogpost GPR4100.1 création d'un premier jeu
+# Blogpost 1 :
 
-![](https://Styshooteur.github.io/Images/robot%20ascend.PNG)
+Je m'appelle Victor, j'ai 21 ans et j'étudie le Games Programming en 1ere année à la SAE Genève. Je suis titulaire d'un bac scientifique et d'une licence d'Arts du spectacle – Parcours cinéma de l'Université Lyon 2, j'ai également eu la chance d'avoir pu découvrir le japonais pendant 1 an à l'université Grenoble 3 – Stendhal. 
 
-# Introduction :
+Alors oui, comme vous pouvez le constater je me réoriente totalement cette année. Le cinéma et les jeux vidéos étant mes deux passions, je me suis demandé s'il serait possible d'en faire un jour un métier et il faut bien reconnaître que ce n'est pas la voie la plus simple. La bonne nouvelle c'est que j'en ai déjà éliminer une des deux à savoir le cinéma car après 3 ans à souffrir dans une horrible fac française je suis désormais sûr à 100% que le cinéma est et restera une simple passion, un simple hobby. (Je suis ouvert à toute question si vous voulez que je précise mon propos.) 
 
-J'avais pour envie de faire un jeu simple mais fun, un jeu auquel je prendrais plaisir à jouer pendant 5 min, c'est pour cela que je me suis inspiré de certains jeux mobiles. J'avais également envie d'apprendre à utiliser Unity pour un jeu 2D. 
+Aujourd'hui je ne suis toujours pas sûr d'avoir fait le bon choix en entrant à la SAE mais ce qui est certain c'est que je m'y sens beaucoup mieux et que c'est le type de communauté à laquelle j'ai envie d'appartenir. (car oui la communauté des Gamers/Geeks n'a rien a voir avec la communauté cinéphile) C'est avec un bonheur immense que j'apprends enfin quelque chose d'utile (la programmation) après avoir passé de nombreuses années à régresser intellectuellement, n'ayant gagné qu'un peu de culture générale sans aucun savoir-faire. Ces quelques points me laisse penser pouvoir aller jusqu'au bout de ce bachelor grâce à beaucoup de bienveillance et une ambiance de travail saine que je ressens dans cette école.
 
-# Concept du jeu :
-
-Vous incarnez un petit robot qui entame son ascension en sautant de plateforme en plateforme jusqu'à la fin du niveau. Mais, attention, le temps joue contre vous et des rockets tombe du ciel, il faudra donc être rapide et agile.
-
-# Mécaniques implémentés :
-
-J'ai d'abord implémenté différents types de collisions en utilisant les layers. Quand mon personnage entre en contact avec ces gameobjetcs, une action différente se produit.
-- La killingzone et les rockets tuent le joueur.
-- Le bumper éjecte le joueur plus fort que le saut.
-- Le endrobot déclenche l'écran de victoire.
-
-
-![](https://Styshooteur.github.io/Images/collision.PNG)
-
-Ensuite, je dirais que la mécanique la plus dure à implémenter a été celle des rockets. En effet, les rockets tombent du ciel et sont le danger principal pour le joueur. Je pensais avoir été malin en utilisant simplement la gravité pour faire tomber mes rockets ainsi je n'avais pas besoin de leur donner une trajectoire et une vitesse mais l'accélération qu'elles accumulent du fait de la gravité s'est montrée très vite problématique. J'aurais donc préferé tout changer pour enlever ce facteur physique mais finalement en réduisant le gravity scale et la masse de la rocket j'obtiens une mécanique qui fonctionne correctement pour ce niveau. Maintenant, je voulais également donner un paterne aléatoire à la fréquence des rockets et leurs positions, pour cela j'ai créé des spawners à différents endroits et je leur ai donné une fréquence semi-aléatoire. Je m'explique, je voulais que les rockets spawns au bout d'un certain temps (évidemment qui diffère selon les spawners pour que les rocket soient évitables) puis qu'à chaque fois qu'une nouvelle rocket spawn, un nouveau nombre soit calculé aléatoirement (entre 10 et 20 secondes par exemple) pour déterminer dans combien de secondes la prochaine doit spawn. Au final je n'ai pas réussi a créér quelque chose d'aussi aléatoire et donc le paterne est déterminé au début du niveau (à chaque fois que le niveau restart) car le jeu détermine une fréquence aléatoire et non un délai à chaque fois qu'une rocket spawn. En bref, le jeu a une bonne rejouabilité mais pas l'expérience opitmale que je voulais donner lorsque l'on fait le niveau une seule fois.
-J'ai ainsi créé 3 scripts différents où j'ai simplement changé le temps après lequel la première rocket spawn ainsi que les valeurs du Random.Range.
-
-
-![](https://Styshooteur.github.io/Images/Shootrocket.PNG)
-
-# Progression personnelle :
-
-Je pense avoir appris beaucoup de choses sur Unity grâce à ce projet mais je n'en maîtrise que très peu. J'aime beaucoup la façon dont Unity nous permet de faire reférence à tel ou tel élément ainsi que les commandes que Unity nous propose de base. Le C# me semble également plus simple que le C++ dans cette mesure. Il y a de nombreuses choses que j'ai pu découvrir et que j'aimerais pouvoir exploiter à nouveau jusqu'à les maîtriser parfaitement comme par exemple la gestion des animations, la création de menu, l'audio ainsi que les colliders. J'ai aussi eu l'occasion de créer un game manager pour automatiser la gestion de la victoire et de la défaite, j'aimerais apprendre à mieux m'en servir.
-
-![](https://Styshooteur.github.io/Images/gamemanager.PNG)
-
-# Conclusion : 
-
-Je pense avoir mener à bien ce projet, respecté en partie les consignes et surtout avoir appris beaucoup de choses. 
-J'ai toujours été habitué à tout faire au dernier moment mais avec la programmation je pense que je vais devoir changer mes habitudes car on ne sait jamais à l'avance le nombre de bug que l'on va devoir résoudre et c'est pour cela que j'ai eu chaud niveau timing.
-J'ai également dresser une liste des bugs de mon jeu ainsi que des choses que je n'ai pas implémenté exactement comme je le souhaitais de manière à pouvoir y revenir ultérieurement pour retravailler le jeu.
-
-- PS : J'ai fais 3 jours de crunch, grosse dédicace à CD Projekt Red et Florian Rossignol !
+Enfin, pour ce qui est du futur, je me projette encore difficilement dans un métier car j'aimerais encore prendre le temps de voyager et apprendre des choses. Pour le moment, je dirai que j'aimerais être Game Designer pour un grand studio tout en étant parfaitement conscient qu'il faut des années de travail et de grandes connaissances pour y parvenir, c'est pour cela que je pense important de commencer par la programmation et de faire ses preuves dans ce domaine.
