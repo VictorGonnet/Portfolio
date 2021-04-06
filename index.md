@@ -15,7 +15,7 @@ J'ai implémenté différents types de collisions en utilisant les layers. Quand
 - Le bumper éjecte le joueur plus fort que le saut.
 - Le endrobot déclenche l'écran de victoire.
 
-![](https://Styshooteur.github.io/Images/collision.PNG)
+![](https://victorgonnet.github.io/Images/Robot%20Ascend%202077.png)
 
 
 ## Mountain Surfer 
