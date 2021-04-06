@@ -29,14 +29,16 @@ Les différentes implémentations réalisées :
 
 ![](https://victorgonnet.github.io/Images/Mountain%20Surfer.png)
 
-https://github.com/VictorGonnet/victorgonnet.github.io/blob/main/Images/Robot%20Ascend%202077.png
-
 
 ## Jeux de Game Jam
 
 Lors de ma première Game Jam à savoir la Swiss Game Academy, moi et mon équipe avons créé un jeu de type Typing Game humoristique nommé HJKLHjh.
 Le but étant d'aider notre personnage à éviter des obstacles en choisissant le bon mot parmis les propositions suivant un système de déduction logique.
 
+![](https://victorgonnet.github.io/Images/Swiss%20game%20academy.png)
 
+
+                                                                    # CONTACT ME
+                          Feel free to send me a message here: vicy@live.fr, I'll try to respond as quick as I can!
 
 
