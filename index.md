@@ -26,4 +26,11 @@ Les différentes implémentations réalisées :
 - Un système de liste d'objets qui permettent une génération infinie de la piste de ski.
 - Des spawns d'obstacles aléatoires.
 
-![](https://
+![](https://github.com/VictorGonnet/victorgonnet.github.io/blob/main/Images/Mountain%20Surfer.png)
+
+## Jeux de Game Jam
+
+Lors de ma première Game Jam à savoir la Swiss Game Academy, moi et mon équipe avons créé un jeu de type Typing Game humoristique nommé HJKLHjh.
+Le but étant d'aider notre personnage à éviter des obstacles en choisissant le bon mot parmis les propositions suivant un système de déduction logique.
+
+
