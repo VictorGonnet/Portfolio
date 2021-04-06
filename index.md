@@ -29,7 +29,7 @@ Les différentes implémentations réalisées :
 - Un système de liste d'objets qui permettent une génération infinie de la piste de ski.
 - Des spawns d'obstacles aléatoires.
 
-![](https://victorgonnet.github.io/Images/Mountain%20Surfer.PNG)
+![](https://github.com/VictorGonnet/Portfolio/blob/main/Images/Mountain%20Surfer.PNG)
 
 
 ## Jeux de Game Jam
