@@ -27,7 +27,7 @@ Les différentes implémentations réalisées :
 - Un système de liste d'objets qui permettent une génération infinie de la piste de ski.
 - Des spawns d'obstacles aléatoires.
 
-![](https://VictorGonnet/victorgonnet.github.io/Images/Mountain%20Surfer.png)
+![](https://victorgonnet.github.io/Images/Mountain%20Surfer.png)
 
 https://github.com/VictorGonnet/victorgonnet.github.io/blob/main/Images/Robot%20Ascend%202077.png
 
