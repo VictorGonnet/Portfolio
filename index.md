@@ -1,7 +1,7 @@
 # Présentation
 
 
-### Bonjour ! Je m'appelle Victor Gonnet je suis actuellement étudiant en Games Programming et je vais vous livrer ici quelques travaux et expériences auxquels j'ai participé dans la conception de jeux vidéo.
+Bonjour ! Je m'appelle Victor Gonnet je suis actuellement étudiant en Games Programming et je vais vous livrer ici quelques travaux et expériences auxquels j'ai participé dans la conception de jeux vidéo.
 
 
 ## Robot Ascend 2077
