@@ -37,7 +37,7 @@ Les différentes implémentations réalisées :
 Lors de ma première Game Jam à savoir la Swiss Game Academy, moi et mon équipe avons créé un jeu de type Typing Game humoristique nommé HJKLHjh.
 Le but étant d'aider notre personnage à éviter des obstacles en choisissant le bon mot parmis les propositions suivant un système de déduction logique.
 
-![](https://victorgonnet.github.io/Images/Swiss%20game%20academy.PNG)
+![](https://github.com/VictorGonnet/Portfolio/blob/main/Images/Swiss%20game%20academy.png)
 
 
                                                                     # CONTACT ME
