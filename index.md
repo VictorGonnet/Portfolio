@@ -1,40 +1,28 @@
-## Blogpost 1 :
+### Portfolio
 
-Je m'appelle Victor, j'ai 21 ans et j'étudie le Games Programming en 1ere année à la SAE Genève. Je suis titulaire d'un bac scientifique et d'une licence d'Arts du spectacle – Parcours cinéma de l'Université Lyon 2, j'ai également eu la chance d'avoir pu découvrir le japonais pendant 1 an à l'université Grenoble 3 – Stendhal. 
+# Bonjour ! Je m'appelle Victor Gonnet je suis actuellement étudiant en Games Programming et je vais vous livrer ici quelques travaux et expériences auxquels j'ai participé dans la conception de jeux vidéos.
 
-Alors oui, comme vous pouvez le constater je me réoriente totalement cette année. Le cinéma et les jeux vidéos étant mes deux passions, je me suis demandé s'il serait possible d'en faire un jour un métier et il faut bien reconnaître que ce n'est pas la voie la plus simple. La bonne nouvelle c'est que j'en ai déjà éliminer une des deux à savoir le cinéma car après 3 ans à souffrir dans une horrible fac française je suis désormais sûr à 100% que le cinéma est et restera une simple passion, un simple hobby. (Je suis ouvert à toute question si vous voulez que je précise mon propos.) 
+## Robot Ascend 2077
 
-Aujourd'hui je ne suis toujours pas sûr d'avoir fait le bon choix en entrant à la SAE mais ce qui est certain c'est que je m'y sens beaucoup mieux et que c'est le type de communauté à laquelle j'ai envie d'appartenir. (car oui la communauté des Gamers/Geeks n'a rien a voir avec la communauté cinéphile) C'est avec un bonheur immense que j'apprends enfin quelque chose d'utile (la programmation) après avoir passé de nombreuses années à régresser intellectuellement, n'ayant gagné qu'un peu de culture générale sans aucun savoir-faire. Ces quelques points me laisse penser pouvoir aller jusqu'au bout de ce bachelor grâce à beaucoup de bienveillance et une ambiance de travail saine que je ressens dans cette école.
+![](https://Styshooteur.github.io/Images/robot%20ascend.PNG)
 
-Enfin, pour ce qui est du futur, je me projette encore difficilement dans un métier car j'aimerais encore prendre le temps de voyager et apprendre des choses. Pour le moment, je dirai que j'aimerais être Game Designer pour un grand studio tout en étant parfaitement conscient qu'il faut des années de travail et de grandes connaissances pour y parvenir, c'est pour cela que je pense important de commencer par la programmation et de faire ses preuves dans ce domaine.
+Ceci est mon premier jeu solo que j'ai développé dans le cadre d'un projet de fin de module à la SAE insitute Genève.
 
-## Blogpost 2 :
+C'est un jeu de plateforme en 2D de type casual dans lequel vous incarnez un petit robot qui entame son ascension en sautant de plateforme en plateforme jusqu'à la fin du niveau. Mais, attention, le temps joue contre vous et des rockets tombe du ciel, il faudra donc être rapide et agile.
 
-Dans ce deuxième Blogpost, je vais essentiellement parler de mon expérience à la Swiss Game Academy puis j'évoquerais rapidement le travail fourni dans le cadre des cours.
+J'ai implémenté différents types de collisions en utilisant les layers. Quand mon personnage entre en contact avec ces gameobjetcs, une action différente se produit.
+- La killingzone et les rockets tuent le joueur.
+- Le bumper éjecte le joueur plus fort que le saut.
+- Le endrobot déclenche l'écran de victoire.
 
-Tout d'abord la Swiss Game Academy est une Game Jam ouverte aux débutants dont le but est avant tout de faire découvrir la conception de jeux vidéos à tous. C'est d'ailleurs grâce à elle si j'ai finalement franchi les portes de la SAE. Cette expérience à été très intéressante et très instructive, j'ai compris grâce à ça à quel point il est essentiel de participer à des Games Jam. En effet, au delà de la partie technique, que ce soit la programmation, le game art, le game design, etc, c'était surtout une véritable leçon de travail d'équipe. J'ai compris à quel point il serait important dans cette industrie de travailler en équipe et surtout à quel point il serait impossible de faire impasse sur certaines qualités telles que la diplomatie, l'écoute, l'organisation, etc... Probablement une des expériences sociales la plus compliquée que j'ai eu à gérer, chacun à ses idées, chacun aborde la chose du point de vue de sa discipline et chacun est ambitieux, mais tout le monde peut apporter sa pierre à l'édifice pour un peu qu'on soit organisé et que l'on arrive à mettre son ego de côté. Cette expérience m'a vraiment donné envie de développer mes compétences pour pouvoir prétendre à un poste, disons, qui doit servir de référence à un certains nombres de personne pour pouvoir tirer parti au maximum des compétences de chacun.
+![](https://Styshooteur.github.io/Images/collision.PNG)
 
-Pour ce qui est des travaux à fournir en cours, nous sommes toujours encouragés à expérimenter au maximum et pour le moment je trouve que c'est vraiment bénéfique au niveau individuel. L'idée est de nous donner les cartes pour ensuite nous permettre de creuser nous même les choses qui nous intéressent que ce soit le son, l'IA, le level design, etc... Libre à nous de nous intéresser à une chose plus qu'à une autre et de se constituer notre propre palette de compétences. Sur notre exercice avec SFML Box2d, je me suis notamment amusé sur le level design d'un niveau tout simple et très cours pour faire d'un jeu d'une durée de vie de 20 secondes la meilleure expérience joueur possible.
+## Mountain Surfer 
 
-Je pense vraiment que ce qu'on fait en cours est tout à fait complémentaire avec une expérience de Jam et que les deux sont essentiels si l'on veut pouvoir aborder le milieu professionnel correctement. En espérant devenir un jour un super game designer respecté de tous et pouvoir enfin sauver les messieurs de chez Blizzard Activision.
+C'est un jeu de course sans fin assez simple que j'ai réalisé avec un camarade de classe pour un travail de formative. Dans ce jeu le joueur contrôle un skieur qui entame sa descente et va de plus en plus vite, il doit continuellement éviter différents types d'obstacle.
 
-## Blogpost 3 :
-
-Je ne vais pas faire ici l’étalage de mes qualités et défauts car ce n’est pas le sujet mais je tiens simplement à dire que je me définirais comme vif d’esprit mais parfois borné, même si j’essaye de ne pas l’être il y a souvent des choses sur lesquelles je me focalise et dont je n’arrive pas à me détacher bien qu’elles soient souvent négligeables. C’est important pour comprendre mes faiblesses, en tout cas pour ce qui est du travail, j’ai parfois du mal à me lancer par manque de motivation ou d’inspiration et ensuite je ne suis pas très efficace.
-
-Je m’explique, il m’arrive d’avoir 2 mois pour faire un travail qui me prendrait 2 jours à faire correctement et 1 semaine à faire parfaitement et pourtant je n’arrive pas à m’y mettre avant d’être a un jour de la deadline car « Deadline is motivation ». Une fois dans mon travail, je suis très efficace, j’arrive à aller à l’essentiel et je fais ce que j’ai à faire cependant je ne suis pas très proactif au final, je gâche beaucoup de temps. Il faudrait avant tout que j’arrive à me motiver d’une autre manière pour pouvoir maximiser mon temps de travail et de ce fait apprendre à travailler tout simplement car j’ai toujours tout fait au talent et maintenant je ne peux plus tricher. De plus, j’ai une très bonne capacité à m’organiser voir même à organiser le travail pour d’autres personnes et pourtant je suis incapable d’en faire bonne usage car je suis un flemmard. 
-
-Aujourd’hui, tout ceci est déjà moins problématique qu’auparavant car la programmation de jeu vidéo me plait beaucoup mais j’ai toujours du mal a avoir un déclic pour commencer à travailler. Ensuite, mes connaissances du milieu vidéoludique, en tout cas en termes de culture (essentiellement de son histoire) sont largement moins développées que celles de mes camarades, toutefois je peux facilement combler ce fossé grâce à ma culture générale (et surtout artistique) que j’ai eu le temps de développé à la fac. Pour finir, j’ai évidemment un énorme manque de compétences, c’est pour cela que je suis ici et je ne me fais pas trop de soucis pour l’instant. Cependant, j’aimerais éviter d’être un poids pour mes camarades et donc j’espère trouver grâce à eux et aux travaux de groupe la motivation qui va me permettre de m’améliorer.
-
-## Blogpost 4 :
-
-Dans le blogpost précédent j'avais mentionné mes difficultés à trouver la motivation pour mon travail et à être efficace.
-
-Je pense avoir trouver quelques pistes pour m'améliorer sur ce point. En effet, dans l'actuel module de Games Prog, le format me correspond beaucoup mieux et j'arrive sans problème à m'investir dans le travail pour plusieurs raisons.
-
-Premièrement, ce sont des travaux de groupes, groupes de 2 qui permettent de s'organiser assez facilement. Pour ma part j'aime beaucoup ce format puisque je veux répondre aux attentes de l'autre et ne pas décevoir, je sais qu'il n'est pas seulement question de moi et donc je m'investis pour l'autre également.
-
-Deuxièmement, ce sont des travaux d'une semaine à l'autre, le fait que l'échéance arrive rapidement permet de ne pas perdre de vue l'objectif et rester concentré sur le travail en question sans s'éparpiller. De plus la liberté qui nous est laissé permet de prendre beaucoup de plaisir dans cet exercice.
-
-Pour résumé, je pense qu'il faut essentiellement que je travaille en groupe sur des projets très concrets qui me font plaisir et me permettent de m'améliorer. Il faut que ce travail soit très constant sans pour autant me surcharger. De cette façon je suis capable de donner le meilleur de moi-même sans me forcer. La motivation supplémentaire apportée par les collègues est toujours la bienvenue.
+Les différentes implémentations réalisées :
+- Un obstacle qui se déplace de manière horizontal.
+- Un système de liste d'objets qui permettent une génération infinie de la piste de ski.
+- Des spawns d'obstacles aléatoires.
 
