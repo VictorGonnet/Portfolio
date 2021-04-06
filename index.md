@@ -17,7 +17,7 @@ J'ai implémenté différents types de collisions en utilisant les layers. Quand
 - Le bumper éjecte le joueur plus fort que le saut.
 - Le endrobot déclenche l'écran de victoire.
 
-![](https://victorgonnet.github.io/Images/Robot%20Ascend%202077.png)
+![](https://victorgonnet.github.io/Images/Robot%20Ascend%202077.PNG)
 
 
 ## Mountain Surfer 
@@ -29,7 +29,7 @@ Les différentes implémentations réalisées :
 - Un système de liste d'objets qui permettent une génération infinie de la piste de ski.
 - Des spawns d'obstacles aléatoires.
 
-![](https://victorgonnet.github.io/Images/Mountain%20Surfer.png)
+![](https://victorgonnet.github.io/Images/Mountain%20Surfer.PNG)
 
 
 ## Jeux de Game Jam
@@ -37,7 +37,7 @@ Les différentes implémentations réalisées :
 Lors de ma première Game Jam à savoir la Swiss Game Academy, moi et mon équipe avons créé un jeu de type Typing Game humoristique nommé HJKLHjh.
 Le but étant d'aider notre personnage à éviter des obstacles en choisissant le bon mot parmis les propositions suivant un système de déduction logique.
 
-![](https://victorgonnet.github.io/Images/Swiss%20game%20academy.png)
+![](https://victorgonnet.github.io/Images/Swiss%20game%20academy.PNG)
 
 
                                                                     # CONTACT ME
