@@ -14,19 +14,15 @@ C'est un jeu de plateforme en 2D de type casual dans lequel vous incarnez un pet
 Mon inspiration première était Doodle Jump à la différence que ce jeu est designé pour PC et le niveau est construit non aléatoirement.
 Pour faire simple, la camera se déplace vers le haut et vous mourrez donc si vous touchez le bas de l'écran. Il y a également différents types de plateformes pour facilité votre ascension telles que les One way platform ou les bumpers. De plus, des rockets tombent d'une façon semi-alétoire sur 3 axes différents.
 
-![](https://Styshooteur.github.io/Images/Robot%20Ascend%202077.png)
 ![image](https://user-images.githubusercontent.com/81884303/167666795-d12acc6f-5bb3-4b2f-9905-1285f78c6a2d.png)
 
 
 
 ## Mountain Surfer 
 
-C'est un jeu de course sans fin assez simple que j'ai réalisé avec un camarade de classe pour un travail formatif. Dans ce jeu le joueur contrôle un skieur qui entame sa descente et va de plus en plus vite, il doit continuellement éviter différents types d'obstacles.
+C'est un jeu de course infini que j'ai réalisé avec un camarade de classe pour un travail formatif à la SAE Institue Genève. Dans ce jeu le joueur contrôle un skieur qui entame sa descente et va de plus en plus vite, il doit continuellement éviter différents types d'obstacles.
 
-Les différentes implémentations réalisées :
-- Un obstacle qui se déplace de manière horizontale.
-- Un système de liste d'objets qui permet une génération infinie de la piste de ski.
-- Des spawns d'obstacles aléatoires.
+L'inspiration principal était Taxi Gone Wild mais on pourrait citer beaucoup de jeu similaire, le challenge ici était de faire spawn la suite du niveau au fur et à mesure. Les obstacles, eux, sont choisis semi aléatoirement et la vitesse du skieur augmente avec le temps jusqu'à un certain seuil.
 
 ![](https://Styshooteur.github.io/Images/Mountain%20Surfer.png)
 
