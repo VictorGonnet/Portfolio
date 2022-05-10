@@ -1,21 +1,18 @@
 # Présentation
 
-
-Bonjour ! Je m'appelle Victor Gonnet je suis actuellement étudiant en Games Programming et je vais vous livrer ici quelques travaux et expériences auxquels j'ai participé dans la conception de jeux vidéo.
+Bonjour ! Je m'appelle Victor Gonnet j'évolue dans le domaine de la concéption de jeu vidéo et voici quelques uns des projets sur lesquels j'ai pu travailler en tant que Game Designer et/ou Game Programmer.
 
 
 ## Robot Ascend 2077
 
 ![](https://Styshooteur.github.io/Images/robot%20ascend.PNG)
 
-Ceci est mon premier jeu solo que j'ai développé dans le cadre d'un projet de fin de module à la SAE insitute Genève.
+Ceci est mon premier jeu solo que j'ai développé dans le cadre d'un projet de fin de module à la SAE insitute Genève. Le but est d'aider le petit robot a rejoindre Daddy Robot, pour cela il faudra faire preuve de sang froid et de dexterité pour atteindre le sommet en vie.
 
 C'est un jeu de plateforme en 2D de type casual dans lequel vous incarnez un petit robot qui entame son ascension en sautant de plateforme en plateforme jusqu'à la fin du niveau. Mais, attention, le temps joue contre vous et des rockets tombent du ciel, il faudra donc être rapide et agile.
 
-J'ai implémenté différents types de collisions en utilisant les layers. Quand mon personnage entre en contact avec ces gameobjetcs, une action différente se produit.
-- La killingzone et les rockets tuent le joueur.
-- Le bumper éjecte le joueur plus fort que le saut.
-- Le endrobot déclenche l'écran de victoire.
+Mon inspiration première était Doodle Jump à la différence que ce jeu est designé pour PC et le niveau est construit non aléatoirement.
+Pour faire simple, la camera se déplace vers le haut et vous mourrez donc si vous touchez le bas de l'écran. Il y a également différents types de plateformes pour facilité votre ascension telles que les One way platform ou les bumpers. De plus, des rockets tombent d'une façon semi-alétoire sur 3 axes différents.
 
 ![](https://Styshooteur.github.io/Images/Robot%20Ascend%202077.png)
 
