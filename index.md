@@ -7,7 +7,7 @@ Bonjour ! Je m'appelle Victor Gonnet j'évolue dans le domaine de la concéption
 
 ![](https://Styshooteur.github.io/Images/robot%20ascend.PNG)
 
-Ceci est mon premier jeu solo que j'ai développé dans le cadre d'un projet de fin de module à la SAE insitute Genève. Le but est d'aider le petit robot a rejoindre Daddy Robot, pour cela il faudra faire preuve de sang froid et de dexterité pour atteindre le sommet en vie.
+Ceci est mon premier jeu solo que j'ai développé avec Unity dans le cadre d'un projet de fin de module à la SAE insitute Genève. Le but est d'aider le petit robot a rejoindre Daddy Robot, pour cela il faudra faire preuve de sang froid et de dexterité pour atteindre le sommet en vie.
 
 C'est un jeu de plateforme en 2D de type casual dans lequel vous incarnez un petit robot qui entame son ascension en sautant de plateforme en plateforme jusqu'à la fin du niveau. Mais, attention, le temps joue contre vous et des rockets tombent du ciel, il faudra donc être rapide et agile.
 
@@ -15,6 +15,8 @@ Mon inspiration première était Doodle Jump à la différence que ce jeu est de
 Pour faire simple, la camera se déplace vers le haut et vous mourrez donc si vous touchez le bas de l'écran. Il y a également différents types de plateformes pour facilité votre ascension telles que les One way platform ou les bumpers. De plus, des rockets tombent d'une façon semi-alétoire sur 3 axes différents.
 
 ![](https://Styshooteur.github.io/Images/Robot%20Ascend%202077.png)
+![image](https://user-images.githubusercontent.com/81884303/167666795-d12acc6f-5bb3-4b2f-9905-1285f78c6a2d.png)
+
 
 
 ## Mountain Surfer 
