@@ -17,7 +17,6 @@ Pour faire simple, la camera se déplace vers le haut et vous mourrez donc si vo
 ![image](https://user-images.githubusercontent.com/81884303/167666795-d12acc6f-5bb3-4b2f-9905-1285f78c6a2d.png)
 
 
-
 ## Mountain Surfer 
 
 C'est un jeu de course infini que j'ai réalisé avec un camarade de classe pour un travail formatif à la SAE Institue Genève. Dans ce jeu le joueur contrôle un skieur qui entame sa descente et va de plus en plus vite, il doit continuellement éviter différents types d'obstacles.
@@ -27,7 +26,7 @@ L'inspiration principal était Taxi Gone Wild mais on pourrait citer beaucoup de
 ![](https://Styshooteur.github.io/Images/Mountain%20Surfer.png)
 
 
-## Jeux de Game Jam
+## Jeu de la Swiss Game Academy
 
 Lors de ma première Game Jam à savoir la Swiss Game Academy, mon équipe et moi avons créé un jeu de type Typing Game humoristique nommé HJKLHjh.
 Le but étant d'aider notre personnage à éviter des obstacles en choisissant le bon mot parmi les propositions suivant un système de déduction logique (selon l'indice).
@@ -35,6 +34,20 @@ Il n'y a pas de déplacements spécifiques, les obstacles sont juste un repère 
 (Nous avions au préalable tester notre système de deduction logique sur une vingtaine de personnes pour équilibrer la diffculté et essayer de rendre la chose ludique).
 
 ![](https://Styshooteur.github.io/Images/Swiss%20game%20academy.png)
+
+
+## Gravity Unicorn
+
+![image](https://user-images.githubusercontent.com/81884303/167900204-68075fa1-a3fd-4857-b51d-04bcae521906.png)
+
+Dans une magnifique DA digne d'un croisement entre My Little Pony et Digimon, notre magnifique licorne rose est né pour un projet de jeu sur 1 semaine. Dans le cadre du module Game Design à la SAE Institute Genève, nous avions pour défi de recréer une platformer 2D avec en réutilisant la mécanique principale du jeu Metal Storm sur NES. Ainsi, j'ai crée un niveau simpliste avec quelques ennemis et des sauts a effectuer ainsi que la possibilité d'inverser la gravitation pour marcher au plafond.
+
+![image](https://user-images.githubusercontent.com/81884303/167903328-57fd15ec-7b37-4924-a1b3-3ab7732188e2.png)
+
+
+
+
+
 
 
                                                                     # CONTACT ME
