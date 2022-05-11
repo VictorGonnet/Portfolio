@@ -49,9 +49,12 @@ Ce jeu est probablement mon projet le plus abouti de mes années à la SAE Insti
 
 ![image](https://user-images.githubusercontent.com/81884303/167912241-63be8b76-84db-45ea-98d6-ebe8227dcfe6.png)
 
-# Voici un petit example de gameplay
+### Voici un petit example de gameplay
 
 ![bloggif_627bf25c5a8dd](https://user-images.githubusercontent.com/81884303/167912342-35fbcb99-94ed-49c2-88d0-81a4b4ae3bb5.gif)
+
+
+## SpiderRush
 
 
 
