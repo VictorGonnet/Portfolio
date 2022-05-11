@@ -48,7 +48,9 @@ Dans une magnifique DA digne d'un croisement entre My Little Pony et Digimon, no
 
 ## SpellSmash
 
-Ce jeu est probablement mon projet le plus abouti de mes années à la SAE Institute Genève. Dans le cade du jeu de fin de module Game Design, nous avions pour obligation de faire un jeu multijoueur, là où beaucoup ont choisi de faire un jeu coop, notre groupe a décidé de faire un jeu de combat 1v1. De plus, notre jeu est en 3D avec une top-down view et se joue exclusivement à la manette. Les deux joueurs peuvent utiliser deux sorts sur les gachettes droites de la manette ainsi que des déplacements conventionnels avec l'analogique gauche et la rotation du personnage pour viser avec l'analogique droit. Le premier sort envoie une boule assez large qui repousse légerement l'adversaire et qui est spammable. Le deuxième sort tire un laser surpuissant qui éjecte directement l'adversaire sur un mur, cependant, il faudra faire preuve d'une grande précision, de plus; l'utilisation de ce laser comporte un temps de recharge. Le but final est donc de repousser l'adversaire sur les bords de la salle pour le tuer instantanément commme le laisse deviner les piques présents sur les bords de l'arène.
+Ce jeu est probablement mon projet le plus abouti de mes années à la SAE Institute Genève. Dans le cade du jeu de fin de module Game Design, nous avions pour obligation de faire un jeu multijoueur, là où beaucoup ont choisi de faire un jeu coop, notre groupe a décidé de faire un jeu de combat 1v1. De plus, notre jeu est en 3D avec une top-down view et se joue exclusivement à la manette. 
+
+Les deux joueurs peuvent utiliser deux sorts sur les gachettes droites de la manette ainsi que des déplacements conventionnels avec l'analogique gauche et la rotation du personnage pour viser avec l'analogique droit. Le premier sort envoie une boule assez large qui repousse légerement l'adversaire et qui est spammable. Le deuxième sort tire un laser surpuissant qui éjecte directement l'adversaire sur un mur, cependant, il faudra faire preuve d'une grande précision, de plus; l'utilisation de ce laser comporte un temps de recharge. Le but final est donc de repousser l'adversaire sur les bords de la salle pour le tuer instantanément commme le laisse deviner les piques présents sur les bords de l'arène.
 
 ![image](https://user-images.githubusercontent.com/81884303/167912241-63be8b76-84db-45ea-98d6-ebe8227dcfe6.png)
 
@@ -73,7 +75,9 @@ Sur le plateau vous pouvez apercevoir une arrivée, une fin, des cases blanches,
 ## SpidRun
 
 SpidRun est un jeu inspiré de la série de light novel "So i'm a spider, so what ?" dont nous sommes tomber amoureux. On a donc décidé en hommage de créer un jeu où l'on incarne l'arraignée qui doit sortir de la grotte truffée de monstres où elle naît.
+
 Ce jeu a été un travail de longue haleine extrêmement complexe qui a servi a validé ma première année à la SAE Institue Genève. La particularité de ce jeu est qu'il repose sur de la génération procedural. Ici, en l'occurence, nous générons une grotte aléatoirement en Cellular Automaton.(un algorithme de génération procédural idéal pour représenter la structure d'une caverne ou équivalent)
+
 Au delà de l'immense défi technique que cela représentait pour nous, il a aussi fallu créer des ennemis qui fonctionne grâce à une machine d'état. Pour ma part j'ai créer deux ennemis. La chouette est un ennemi puissant qui cast un dash (lourd dégâts) à votre emplacement dès qu'elle vous voit. La chauve-souris, elle, vous fonce dessus tant que vous êtes dans sa zone d'activité. Le nombre d'ennemis est décidé en fonction du nombre de salles générées et la répartition est faite le plus équitablement possible pour que le jeu soit faisable.
 Le joueur, lui, est seulement capable de se déplacer et de poser des toiles d'arraignées derrière lui pour infliger de léger dégats. (idéal pour vaincre les chauves-souris)
 
