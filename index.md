@@ -48,7 +48,7 @@ Dans une magnifique DA digne d'un croisement entre My Little Pony et Digimon, no
 Ce jeu est probablement mon projet le plus abouti de mes années à la SAE Institute Genève. Dans le cade du jeu de fin de module Game Design, nous avions pour obligation de faire un jeu multijoueur, là ou beaucoup ont choisi de faire un jeu coop, notre groupe a décidé de faire un jeu de combat 1v1. Toujours avec Unity, notre jeu est en 3D avec une vue du dessus et se joue exclusivement à la manette. Les deux joueurs peuvent utiliser deux sorts sur les gachettes droites de la manette ainsi que des déplacements conventionnels avec l'analogique gauche et la rotation du personnage pour viser avec l'analogique droit. Le premier sort envoie une boule assez large qui repousse légerement l'adversaire et qui est spammable. Le deuxième sort tir un laser surpuissant qui éjecte directement l'adversaire sur un mur, cependant, il faudra faire preuve d'une grande précision, de plus l'utilisation de ce laser comporte un temps de recharge. Le but final est donc de repousser l'adversaire sur les bords de la salle pour le tuer instantanément commme l'indique les piques présents sur les bords.
 
 
-![bloggif_627bf25c5a8dd](https://user-images.githubusercontent.com/81884303/167910848-f2f8af6e-ec79-4936-a75b-917272a84f88.gif)
+![Multiclutch_2022-05-11_19-16-53_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/81884303/167911584-67428494-99ae-4fff-8819-292da8eb9900.gif)
 
 
 
