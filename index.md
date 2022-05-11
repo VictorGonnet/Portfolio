@@ -78,6 +78,7 @@ Le joueur, lui, est seulement capable de se déplacer et de poser des toiles d'a
 ![image](https://user-images.githubusercontent.com/81884303/167956340-1916cf29-a945-41d9-92c5-dc70f6117c39.png)
 
 
+### Je n'ai pas montré ici l'intégralité de mes travaux mais seulement un panorama varié de mes jeux les plus aboutis, si vous êtes curieux je peux mettre à votre disposition une version jouable de ces différents jeux en espérant que vous vous amusiez en les découvrant !
 
 
 
