@@ -54,6 +54,19 @@ Ce jeu est probablement mon projet le plus abouti de mes années à la SAE Insti
 ![bloggif_627bf25c5a8dd](https://user-images.githubusercontent.com/81884303/167912342-35fbcb99-94ed-49c2-88d0-81a4b4ae3bb5.gif)
 
 
+## Canceled Race
+
+Canceled Race est un jeu de société que j'ai crée seul pour un projet d'une semaine à la SAE Institute Genève. L'idée était de découvrir l'essence du Game Design et par conséquent nous avons eu une liberté totale pour créer des jeux diverses et vériés. Pour ma part, suite à la découverte du jeu Magic Maze, j'ai été fasciné par la possibilité de creer un jeu de rapidité tout en ayant des règles assez complexe. J'ai donc choisi de créer un jeu de plateau assez classique avec un début et une fin, plusieurs chemins possibles et avec plusieurs cases différentes. Il était nécessaire pour moi que les joueurs jouent tous en même temps et qu'il y ai un côté ludique. Malheureusement comme c'était mon premier jeu de société il n'est pas parfait, je regrette surtout qu'il n'y ai pas plus d'interaction entre les joueurs.
+
+Sur le plateau vous pouvez apercevoir une arrivée, une fin, des cases blanches, des cases marteau-ciseau-papier et des cases blanches. Comme vous pouvez le voir, il y a différents chemin, plus ou moins opitmal, et surtout reposant plus ou moins sur la chance. L'idée étant que si vous prenez des risques vous pouvez finir vite mais vous pouvez aussi resté bloqué par une case sablier pendant toute la partie (avec le supplice de voir les autres joueurs avancés sans vous).
+
+### Voici le plateau et les règles du jeu
+
+![20220503_134634](https://user-images.githubusercontent.com/81884303/167953668-6135b509-30e5-4b9c-8f37-06094ccee5ac.jpg)
+
+![20220503_134706](https://user-images.githubusercontent.com/81884303/167953703-3840cb47-5e61-4c84-9488-b3d98f2186cc.jpg)
+
+
 ## SpiderRush
 
 
