@@ -47,7 +47,7 @@ Dans une magnifique DA digne d'un croisement entre My Little Pony et Digimon, no
 
 Ce jeu est probablement mon projet le plus abouti de mes années à la SAE Institute Genève. Dans le cade du jeu de fin de module Game Design, nous avions pour obligation de faire un jeu multijoueur, là ou beaucoup ont choisi de faire un jeu coop, notre groupe a décidé de faire un jeu de combat 1v1. Toujours avec Unity, notre jeu est en 3D avec une vu
 
-![image](https://user-images.githubusercontent.com/81884303/167906298-61527e0a-27ad-4e93-b001-3d2f27456287.png)
+!![image](https://user-images.githubusercontent.com/81884303/167906563-92243666-6938-4156-8794-5ddbca1daea4.png)
 
 
 
