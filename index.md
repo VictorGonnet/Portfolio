@@ -31,6 +31,8 @@ L'inspiration principal était Taxi Gone Wild mais on pourrait citer beaucoup de
 
 Lors de ma première Game Jam à savoir la Swiss Game Academy, mon équipe et moi avons créé un jeu de type Typing Game humoristique nommé HJKLHjh.
 Le but étant d'aider notre personnage à éviter des obstacles en choisissant le bon mot parmi les propositions suivant un système de déduction logique.
+Il n'y a pas de déplacement spécifique, les obstacles sont juste un repère visuel pour savoir quand le joueur va devoir taper le prochain mot, puis il y a un temps limité pour écrire le mot et si c'est le bon choix parmi les propositions alors on peut continuer, sinon, on perd une vie.
+(Nous avions au préalable tester notre système de deduction logique sur une vingtaine de personne pour équilibrer la diffculté et essayer de rendre la chose ludique).
 
 ![](https://Styshooteur.github.io/Images/Swiss%20game%20academy.png)
 
