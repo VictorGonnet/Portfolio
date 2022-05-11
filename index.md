@@ -67,10 +67,15 @@ Sur le plateau vous pouvez apercevoir une arrivée, une fin, des cases blanches,
 ![20220503_134706](https://user-images.githubusercontent.com/81884303/167953703-3840cb47-5e61-4c84-9488-b3d98f2186cc.jpg)
 
 
-## SpiderRush
+## SpidRun
+
+SpidRun est un jeu inspiré de la série de light novel "So i'm a spider, so what ?" dont nous sommes tomber amoureux. On a donc décidé en hommage de créer un jeu où l'on incarne l'arraignée qui doit sortir de la grotte du départ qui est truffé de monstres.
+Ce jeu a été un travail de longue haleine extrêmement complexe qui a servi a validé ma première année à la SAE Institue Genève. La particularité de ce jeu est qu'il repose sur de la génération procedural. Ici, en l'occurence, nous générons une grotte aléatoirement en Cellular Automaton.(un algorithme de génération procédural idéal pour représenter la structure d'une caverne ou équivalent)
+Au delà de l'immense défi technique que cela représentait pour nous, il a aussi fallu créer des ennemis qui fonctionne grâce à une machine d'état. Pour ma part j'ai créer deux ennemis. La chouette est un ennemi puissant qui cast un dash (lourd dégâts) à votre emplacement dès qu'elle vous voit. La chauve-souris qui vous fonce dessus tant que vous êtes dans sa zone d'activité. Sans rentrer dans la complexité du code, le nombre d'ennemi est décidé en fonction du nombre de salles génerées et la répartition est faites le plus équitablement possible pour que le jeu soit faisable.
+Le joueur, lui, est seulement capable de se déplacer et de poser des toiles d'arraignées derrière lui pour infliger de léger dégats. (idéal pour vaincre les chauves-souris)
 
 
-
+![image](https://user-images.githubusercontent.com/81884303/167956340-1916cf29-a945-41d9-92c5-dc70f6117c39.png)
 
 
 
@@ -79,6 +84,6 @@ Sur le plateau vous pouvez apercevoir une arrivée, une fin, des cases blanches,
 
 
                                                                     # CONTACT ME
-                          Feel free to send me a message here: vicy@live.fr, I'll try to respond as quick as I can!
+                          Feel free to send me a message here: vicogpro@gmail.com, I'll try to respond as quick as I can!
 
 
