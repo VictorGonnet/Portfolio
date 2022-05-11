@@ -2,8 +2,7 @@
 
 Bonjour ! Je m'appelle Victor Gonnet j'évolue dans le domaine de la conception de jeux vidéos et voici quelques uns des projets sur lesquels j'ai pu travailler en tant que Game Designer et/ou Game Programmer.
 
-
-----------------------------Tous les jeux que je présente ici ont été développé avec Unity pour être jouer sur PC-------------------------------------
+Tous les jeux que je présente ici ont été développé avec Unity pour être jouer sur PC.
 
 
 ## Robot Ascend 2077
