@@ -38,11 +38,17 @@ Il n'y a pas de déplacements spécifiques, les obstacles sont juste un repère 
 
 ## Gravity Unicorn
 
-![image](https://user-images.githubusercontent.com/81884303/167900204-68075fa1-a3fd-4857-b51d-04bcae521906.png)
-
-Dans une magnifique DA digne d'un croisement entre My Little Pony et Digimon, notre magnifique licorne rose est né pour un projet de jeu sur 1 semaine. Dans le cadre du module Game Design à la SAE Institute Genève, nous avions pour défi de recréer une platformer 2D avec en réutilisant la mécanique principale du jeu Metal Storm sur NES. Ainsi, j'ai crée un niveau simpliste avec quelques ennemis et des sauts a effectuer ainsi que la possibilité d'inverser la gravitation pour marcher au plafond.
+Dans une magnifique DA digne d'un croisement entre My Little Pony et Digimon, notre magnifique licorne rose est né pour un projet de jeu sur 1 semaine. Dans le cadre du module Game Design à la SAE Institute Genève, nous avions pour défi de recréer un platformer 2D avec en réutilisant la mécanique principale du jeu Metal Storm sur NES. Ainsi, j'ai crée un niveau simpliste avec quelques ennemis et des sauts a effectuer ainsi que la possibilité d'inverser la gravitation pour marcher au plafond.
 
 ![image](https://user-images.githubusercontent.com/81884303/167903328-57fd15ec-7b37-4924-a1b3-3ab7732188e2.png)
+
+
+## SpellSmash
+
+Ce jeu est probablement mon projet le plus abouti de mes années à la SAE Institute Genève. Dans le cade du jeu de fin de module Game Design, nous avions pour obligation de faire un jeu multijoueur, là ou beaucoup ont choisi de faire un jeu coop, notre groupe a décidé de faire un jeu de combat 1v1. Toujours avec Unity, notre jeu est en 3D avec une vu
+
+![image](https://user-images.githubusercontent.com/81884303/167906298-61527e0a-27ad-4e93-b001-3d2f27456287.png)
+
 
 
 
